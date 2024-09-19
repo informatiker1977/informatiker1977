@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @informatiker1977
-- 👀 I’m interested in trading robot programming in coinex and forex
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in trading robot programming in forex, coinex and etc
 - 💞️ I’m looking to collaborate on CoinEX
 - 📫 How to reach me the softwares which are needed to coinex robot programming?
 
